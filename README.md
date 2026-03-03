@@ -1,7 +1,7 @@
 
   # Portfolio Website
 
-  This is a code bundle for Create Portfolio Website.
+  This is a code bundle for My Personal Portfolio Website.
 
   ## Running the code
 
